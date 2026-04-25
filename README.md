@@ -25,7 +25,7 @@ that builds the site and publishes it to GitHub Pages on every push to `main`.
 
 Deploy target: the user/org page repo
 [`mateuspaulino/mateuspaulino.github.io`](https://github.com/mateuspaulino/mateuspaulino.github.io)
-→ live at `https://mateuspaulino.github.io/`.
+→ live at `https://mateuspaulino.github.io/`
 
 One-time setup:
 
